@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**sebastian-anguita/sebastian-anguita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Database Administrator & Cybersecurity Engineer** based in Puerto Rico, working on public sector infrastructure and security.
 
-Here are some ideas to get you started:
+## What I do
+- Database administration and hardening (SQL Server)
+- Identity and access management (Active Directory)
+- Virtualization and backup (VMware, oVirt/KVM, Veeam)
+- Network security and penetration testing (Fortinet, NodeZero)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🎓 M.S. in Cybersecurity and Information Assurance, WGU
+- 🤖 Building AI security projects: threat detection with LLMs, adversarial ML, and security agents
+
+## Education
+- B.S. in Computerized Information Systems, University of Puerto Rico at Mayagüez
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jsanguita)
